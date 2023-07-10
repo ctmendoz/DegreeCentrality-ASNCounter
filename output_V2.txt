@@ -1,0 +1,55 @@
+STEP 1: The number of unique ASNs in the dataset is 74579.
+
+STEP 2: The number of unique links in the dataset is 231570.
+
+STEP 3: The number of unique p2p relations is 157524 and the number of unique p2c relations is 74046.
+
+STEP 4: Largest ASNs
+1.         ASN6939 degree = 4883
+2.         ASN174 degree = 3316
+3.         ASN3356 degree = 3211
+4.         ASN14840 degree = 2300
+5.         ASN24482 degree = 2275
+6.         ASN51185 degree = 2258
+7.         ASN35280 degree = 2157
+8.         ASN1828 degree = 2098
+9.         ASN61568 degree = 2000
+10.         ASN58511 degree = 1665
+
+STEP 5: Largest Provider ASNs
+1.         ASN174 degree = 3271
+2.         ASN3356 degree = 3176
+3.         ASN7018 degree = 1209
+4.         ASN1299 degree = 1139
+5.         ASN6939 degree = 1032
+6.         ASN6461 degree = 1019
+7.         ASN3257 degree = 970
+8.         ASN2914 degree = 766
+9.         ASN701 degree = 687
+10.         ASN209 degree = 594
+
+STEP 6: Largest p2p ASNs
+1.         ASN6939 degree = 3848
+2.         ASN51185 degree = 2256
+3.         ASN24482 degree = 2254
+4.         ASN14840 degree = 2165
+5.         ASN35280 degree = 2126
+6.         ASN1828 degree = 2063
+7.         ASN61568 degree = 1923
+8.         ASN58511 degree = 1638
+9.         ASN199524 degree = 1592
+10.         ASN37497 degree = 1580
+
+STEP 7: Largest Tier 1 ASNs
+1.         ASN174 degree = 3316
+2.         ASN3356 degree = 3211
+3.         ASN51185 degree = 2258
+4.         ASN37497 degree = 1595
+5.         ASN13237 degree = 1232
+6.         ASN137409 degree = 1217
+7.         ASN1299 degree = 1167
+8.         ASN41805 degree = 950
+9.         ASN52863 degree = 925
+10.         ASN45352 degree = 886
+
+STEP 8: There are 48791 stub ASNs in the dataset.
