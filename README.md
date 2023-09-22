@@ -18,6 +18,3 @@
 - Ensure that the java files are compiled by typing in "javac ASNObject.java" and "javac asnCounter.java".
 - Since the program takes a long time to read the ASRelationship-2022-10-01.txt file (~1 hour???), you can confirm that the program works by changing lines 91, 160, 189, 227, 295, 332, 401, 457, 540, 571, and 641 in the asnCounter.java file (best done by using CTRL + F --> "ASRelationship-2022-10-01.txt") so that the program reads the test.txt file, a much shorter version of the default .txt file, included in this repository.
 	- Otherwise, keep the default .txt file and run the program using "java asnCounter.java"
-
-<b>III. VIDEO OF APP IN ACTION:</b>
-- 
